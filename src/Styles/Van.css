@@ -1,0 +1,19 @@
+.btnStyles{
+    background-color: #FFEAD0;
+    border: 0;
+}
+.simple:hover{
+    background-color: #E17654 !important;
+    color: white;
+}
+.luxury:hover{
+    background-color: black !important;
+    color: white;
+}
+.rugged:hover{
+    background-color: #3E7C78 !important;
+    color: white;
+}
+.vansHover:hover{
+    text-decoration: underline !important;
+}

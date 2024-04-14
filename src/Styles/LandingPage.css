@@ -1,0 +1,15 @@
+.landingImg{
+    height: 38rem !important;
+}
+.overLayText{
+    position: relative;
+    top: -20rem;
+}
+.vanBtn{
+    background-color: #FF8C38;
+    border: none;    
+}
+
+.maxheight{
+    max-height: 600px;
+}

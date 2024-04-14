@@ -1,0 +1,11 @@
+.imgHeight{
+  background-image: url('/src/assets/aboutImgOne.png');
+  height: 530px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover !important;
+  margin-top: 80px !important;
+}
+.downColor{
+    background-color: #ffba66;
+}

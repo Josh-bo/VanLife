@@ -1,0 +1,39 @@
+*{
+    font-family: inter;
+}
+
+.chartLine{
+   width: 10rem;
+   height:6px;
+   background-color: #B9B9B9;
+}
+.chartColor{
+    background-color: #FF8C38;
+}
+.sixe{
+    width: 280px;
+}
+.brokenBorder{
+    color: grey;
+    margin-top: -5px;
+    width: 20rem;
+    height: 1px !important;
+}
+.brokenBorder{
+    color: grey;
+    margin-top: -5px;
+    width: 20rem;
+    height: 1px !important;
+}
+.brokenBorder2{
+    color: grey;
+    margin-top: -5px;
+    width: 7rem;
+    height: 1px !important;
+}
+
+@media (max-width:550px) {
+    .dLarge{
+        display: none;
+    }
+}
